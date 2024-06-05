@@ -11,24 +11,24 @@ locale                   : "en-US"
 title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Jeremie N. Mabiala"
-description              : &description "He is a graduate student in Machine Learning. He holds a Msc in Mathematical Sciences."
-url                      : "https://jnlandu.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "jeremie.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "jnlandu/jeremie.github.io"
+description              : &description "He is a graduate student in Machine Learning. He holds a Msc in Mathematical"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "drj.jpeg"
-  name             : "Jeremie N. Mabiala"
+  avatar           : "profile.png"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Human. Passionate about Maths, Computers, Technologies. Apprentice writer.  "
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "African Institute for Mathematical Sciences"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "jeremie@aims.ac.za" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
