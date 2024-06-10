@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "J. N. Mabiala"
 title_separator          : "-"
 name                     : &name "Jeremie N. Mabiala"
 description              : &description "He is a graduate student in Machine Learning. He holds a Msc in Mathematical"
