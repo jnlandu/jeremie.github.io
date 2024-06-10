@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "drj.jpeg"
+  avatar           : "profile.png" #"drj.jpeg"
   name             : "Jeremie N. Mabiala"
   pronouns         : # example: "she/her"  
-  bio              : "Human. Curious. Passionate of Maths, Computers, Technologies. Apprentice writer."
+  bio              : "Human. Curious. Passionate about Maths, Computers, Technologies. Apprentice writer."
   location         : "Earth"
   employer         : "African Institute for Mathematical Sciences"
   uri              : # URL
